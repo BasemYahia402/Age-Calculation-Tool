@@ -1,6 +1,9 @@
 # User Guide: Age Calculation Tool
 Welcome to the Age Calculation Tool user guide. This tool allows you to accurately calculate your age based on the date of birth provided. Below are the instructions on how to use this tool effectively.
 
+**Live Demo Image:**
+![age-calculator live demo](age-calculator.png)
+
 ## Getting Started
 - **Accessing the Tool:** 
 Visit the designated webpage or application where the Age Calculation Tool is available.
