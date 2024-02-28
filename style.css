@@ -28,7 +28,6 @@ html {
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(to right, #764ba2, #6B8DD6, #8E37D7);
 }
 
 /* Card Styles */
@@ -39,6 +38,7 @@ html {
   padding: 3rem;
   background: var(--color-white);
   border-radius: 1rem;
+  box-shadow: 2px 2px 30px 10px #00000040;
 }
 
 .card__inputs {
